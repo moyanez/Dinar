@@ -10,4 +10,5 @@
  cout << "A + B = " << a + b << '\n';
 a=a*2;
 cout <<a<<;
+cout << "A - B = " << a - b << '\n';
 }
